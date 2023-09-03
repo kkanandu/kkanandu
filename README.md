@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋,Im Anandu k k </h1>
+  <div class="bio-container">
+        <h1>👋 Hey there! I'm Anandu K K, a dedicated MCA student with a passion for all things tech.</h1>
+        <p> 🎓 MCA Student | Aspiring Developer | Tech Enthusiast</p>
+        <p>💻 Exploring the world of coding, algorithms, and software development with enthusiasm.</p>
+        <p>🔍 Seeking knowledge and new challenges, one coding challenge at a time.</p>
+        <p>🌐 Let's connect and learn together:</p>
+        <p> - <a href="https://github.com/kkanandu">GitHub</a></p>
+        <p> - <a href="https://www.instagram.com/_psy_coder_/">Instagram</a></p>
+        <p> - <a href="https://kkanandu.github.io/portfolio//">Portfolio</a></p>
+        <p>🌟 On a mission to master the art of code! 🚀</p>
+    </div>
 <h3 align="center">Student at AWH, Kuttikattoor🌟</h3>
 <h3 align="center">Visit my Website Here.</h3>
 <h4 align="center">https://kkanandu.github.io/portfolio//</h4>
