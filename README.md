@@ -9,9 +9,9 @@
         <p> - <a href="https://kkanandu.github.io/portfolio//">Portfolio</a></p>
         <p>🌟 On a mission to master the art of code! 🚀</p>
     </div>
-<h3 align="center">Student at AWH, Kuttikattoor🌟</h3>
-<h3 align="center">Visit my Website Here.</h3>
-<h4 align="center">https://kkanandu.github.io/portfolio//</h4>
+<!-- <h3 align="center">Student at AWH, Kuttikattoor🌟</h3> -->
+<!-- <h3 align="center">Visit my Website Here.</h3>
+<h4 align="center">https://kkanandu.github.io/portfolio//</h4> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkanandu" alt="kkanandu" /></a>
 </p>
 <p align="left"><a href="https://github-profile-trophy.vercel.app/?username=kkanandukk&title=Followers"></a></p>
@@ -28,18 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkanandu&" alt="kkanandu" /></p>
 
 
-</head>
-<body>
-    <div class="bio-container">
-        <h1>🎓 Anandu K K</h1>
-        <p>👋 MCA Student | Java, Python, and Shell Scripting Enthusiast</p>
-        <p>💻 Crafting solutions with Java and Python, and automating tasks with Shell scripts.</p>
-        <p>🚀 Always up for a coding challenge and exploring new horizons in the tech world.</p>
-        <p>🌐 Let's connect and learn together:</p>
-        <p> - <a href="[Your GitHub Profile URL]">GitHub</a></p>
-        <p> - <a href="[Your LinkedIn Profile URL]">LinkedIn</a></p>
-        <p> - <a href="[Your Blog or Portfolio URL]">Personal Blog</a></p>
-        <p>🌟 On a mission to master the art of code! 🚀</p>
-    </div>
-</body>
 </html>
