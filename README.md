@@ -1,5 +1,5 @@
   <div class="bio-container">
-        <h1>👋 Hey there! I'm Anandu K K, a dedicated MCA student with a passion for all things tech.</h1>
+        <h1>👋 Hey there! I'm Anandu K K, </h1>
         <p> 🎓 MCA Student | Aspiring Developer | Tech Enthusiast</p>
         <p>💻 Exploring the world of coding, algorithms, and software development with enthusiasm.</p>
         <p>🔍 Seeking knowledge and new challenges, one coding challenge at a time.</p>
