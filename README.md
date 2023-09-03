@@ -3,6 +3,7 @@
         <p> 🎓 MCA Student | Aspiring Developer | Tech Enthusiast</p>
         <p>💻 Exploring the world of coding, algorithms, and software development with enthusiasm.</p>
         <p>🔍 Seeking knowledge and new challenges, one coding challenge at a time.</p>
+        <p>🖼️ Interested in AI image generation and creating art through code.</p>
         <p>🌐 Let's connect and learn together:</p>
         <p> - <a href="https://github.com/kkanandu">GitHub</a></p>
         <p> - <a href="https://www.instagram.com/_psy_coder_/">Instagram</a></p>
