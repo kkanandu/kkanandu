@@ -7,7 +7,7 @@
         <p>🌐 Let's connect and learn together:</p>
         <p> - <a href="https://github.com/kkanandu">GitHub</a></p>
         <p> - <a href="https://www.instagram.com/_psy_coder_/">Instagram</a></p>
-        <p> - <a href="https://kkanandu.github.io/portfolio//">Portfolio</a></p>
+        <!-- <p> - <a href="https://kkanandu.github.io/portfolio//">Portfolio</a></p> -->
         <p>🌟 On a mission to master the art of code! 🚀</p>
     </div>
 <!-- <h3 align="center">Student at AWH, Kuttikattoor🌟</h3> -->
