@@ -1,26 +1,22 @@
-<!-- HERO HEADER SECTION WITH YOUR INTRO GIF & LIGHT WAVE BANNER -->
-<table  border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <!-- LEFT SIDE: YOUR ANIMATED INTRO GIF -->
-    <td width="30%" align="center" valign="middle">
-      <br/>
-      <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
-        <!-- Relative link to the intro.gif uploaded in your repository -->
-        <img src="./intro.gif" width="400" height="500" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
-      </a>
-      <br/><br/>
-    </td>
-    <!-- RIGHT SIDE: LIGHT WAVE BANNER & TYPING SVG -->
-    <td width="70%" valign="middle" style="padding-left: 15px;">
-      <!-- Waving light-gradient banner with high contrast dark text -->
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=bbf2f6&height=140&section=header&text=ANANDU%20K%20K&fontSize=32&fontAlignY=40&titleColor=1a1a2e" width="100%" alt="Name Banner" />
-      <br/>
-      <a href="https://portfolios-mocha-six.vercel.app/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0077B5&center=false&vCenter=true&width=450&lines=MCA+Student+%7C+Aspiring+Developer;Exploring+algorithms+%26+code;AI+Image+Generation+Enthusiast" alt="Typing Effect" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+<!-- 2. FULL-WIDTH WAVING BANNER BELOW THE VIDEO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bbf2f6&height=140&section=header&text=ANANDU%20K%20K&fontSize=32&fontAlignY=40&titleColor=1a1a2e" width="100%" alt="Name Banner" />
+</p>
+<!-- 1. CENTERED VIDEO (GIF) AT THE VERY TOP -->
+<p align="center">
+  <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
+    <!-- Scaled slightly larger for a centered hero layout with your custom border -->
+    <img src="./intro.gif" width="450" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
+  </a>
+</p>
+<!-- 3. CENTERED ANIMATED TYPING EFFECT -->
+<p align="center">
+  <a href="https://portfolios-mocha-six.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=MCA+Student+%7C+Aspiring+Developer;Exploring+algorithms+%26+code;AI+Image+Generation+Enthusiast" alt="Typing Effect" />
+  </a>
+</p>
 
 <!-- LINE DIVIDER -->
 <p align="center">
