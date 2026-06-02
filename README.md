@@ -46,13 +46,12 @@ I am an MCA graduate and active Freelance Developer passionate about web develop
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p>
-📅 Joined GitHub 17 years ago • 👥 235 Members • ✅ Verified<br>
-📍 San Francisco, CA<br><br>
+📅 Joined GitHub 5 years ago • 👥 22 Members • ✅ Verified<br>
 
-📦 516 Repositories • 📄 No License Preference • 🏷️ 0 Releases<br>
+📦 34 Repositories • 📄 No License Preference • 🏷️ 0 Releases<br>
 📦 59 Packages • 💾 24.2 GB Used<br><br>
 
-❤️ 0 Sponsors • ⭐ 0 Stargazers • 🍴 0 Forkers • 👀 0 Watchers
+❤️ 0 Sponsors • ⭐ 5 Stargazers • 🍴 1 Forkers • 👀 0 Watchers
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
