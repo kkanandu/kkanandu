@@ -59,11 +59,32 @@ I am an MCA graduate and active Freelance Developer passionate about web develop
 <!-- GITHUB MILESTONES & STATS SECTION -->
 <h3>⚡ GitHub Milestones & Stats</h3>
 
-<p>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkanandu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </a>
-</p>
+<div align="center" style="background:#15192d;border-radius:12px;padding:25px;">
+
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <h1 style="color:#5b8cff;margin:0;">700</h1>
+        <p style="color:#8fb3ff;margin:5px 0;">Total Contributions</p>
+        <p style="color:#4deeea;margin:0;">jun 1, 2026 - Present</p>
+      </td>
+         <td width="40"></td>
+          <td align="center" width="220">
+        <h1 style="color:#d291ff;margin:0;">15</h1>
+        <p style="color:#d291ff;margin:5px 0;">Current Streak</p>
+        <p style="color:#4deeea;margin:0;">Jun 2, 2026</p>
+      </td>
+<td width="40"></td>
+     
+ <td align="center" width="220">
+        <h1 style="color:#5b8cff;margin:0;">45</h1>
+        <p style="color:#8fb3ff;margin:5px 0;">Longest Streak</p>
+        <p style="color:#4deeea;margin:0;">Feb 14 - Mar 30, 2026</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
 <!-- LINE DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
