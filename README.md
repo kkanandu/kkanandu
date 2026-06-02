@@ -39,13 +39,6 @@
 
 <br />
 
-<!-- PORTFOLIO BUTTON -->
-<p align="left">
-  <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-7aa2f7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Button" />
-  </a>
-</p>
-
 <!-- LINE DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
@@ -130,6 +123,3 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>Layout optimized for performance and responsive viewing.</sub>
-</p>
