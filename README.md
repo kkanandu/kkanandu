@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d1c4e9&height=180&section=header&text=ANANDU%20K%20K&fontSize=42&fontAlignY=38&titleColor=1a1a2e&animation=twinkling" width="100%" alt="Name Banner" />
 </p>
 <!-- 1. CENTERED VIDEO (GIF) AT THE VERY TOP -->
-<p align="center">
+<p align="center" style="background-color:blue";>
   <a href="https://anandukk.vercel.app/" target="_blank">
     <!-- Scaled slightly larger for a centered hero layout with your custom border -->
     <img src="./intro.gif" width="450px" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
