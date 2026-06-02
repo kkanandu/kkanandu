@@ -33,7 +33,7 @@ I am an MCA graduate and active Freelance Developer passionate about web develop
   <li>🎓 <b>Education:</b> MCA Student at AWH, Kuttikattoor</li>
   <li>💼 <b>Focus:</b> Full-stack development, mobile apps, and systems</li>
   <li>🚀 <b>Goal:</b> Building performant software, one challenge at a time</li>
-  <li>🌐 <b>Interactive:</b> <a href="https://portfolios-mocha-six.vercel.app/" target="_blank"><b>Visit My Live Portfolio Website</b></a></li>
+  <li>📁 <b>Classic Showcase:</b> <a href="https://portfolios-mocha-six.vercel.app/" target="_blank"><b>Visit My Live Portfolio Website</b></a></li>
   <li>🌐 <b>Interactive:</b> <a href="https://anandukk.vercel.app/" target="_blank"><b>Visit My Latest Portfolio Website</b></a></li>
 </ul>
 
