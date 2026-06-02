@@ -8,13 +8,13 @@
 <p align="center">
   <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
     <!-- Scaled slightly larger for a centered hero layout with your custom border -->
-    <img src="./intro.gif" width="100%" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
+    <img src="./intro.gif" width="450px" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
   </a>
 </p>
 <!-- 3. CENTERED ANIMATED TYPING EFFECT -->
 <p align="center">
   <a href="https://portfolios-mocha-six.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=MCA+Student+%7C+Aspiring+Developer;Exploring+algorithms+%26+code;AI+Image+Generation+Enthusiast" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=450&lines=MCA+Student+%7C+Aspiring+Developer;Exploring+algorithms+%26+code;AI+Image+Generation+Enthusiast" alt="Typing Effect" />
   </a>
 </p>
 
@@ -51,15 +51,13 @@
 </p>
 
 <!-- GITHUB MILESTONES & STATS SECTION -->
-<h3 align="center">⚡ GitHub Milestones & Stats</h3>
+<h3>⚡ GitHub Milestones & Stats</h3>
 
-<p align="center">
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkanandu&theme=tokyonight&column=5&no-bg=true&no-frame=true" alt="Trophies" />
+<p>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkanandu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </a>
 </p>
-
 <!-- LINE DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
@@ -110,25 +108,6 @@
   </tr>
 </table>
 
-<!-- LINE DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
-</p>
-
-<!-- LANGUAGE BREAKDOWN & COMMIT STREAK SECTION -->
-<h3 align="center">📊 Language Breakdown & Activity</h3>
-<br />
-<p align="center">
-  <!-- Language Breakdown Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkanandu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Commit Streak Card -->
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkanandu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </a>
-</p>
 
 <!-- LINE DIVIDER -->
 <p align="center">
