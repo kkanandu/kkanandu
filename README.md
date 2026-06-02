@@ -91,8 +91,8 @@
       <h4 align="center">🔧 Infrastructure & Tools</h4>
       <p align="center">
         <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://razorpay.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/razorpay/razorpay-icon.svg" alt="Razorpay" width="40" height="40"/>
+ <a href="https://razorpay.com/" target="_blank">
+        <img src="https://razorpay.com/favicon.png" alt="Razorpay" width="40" height="40"/>
       </a>&nbsp;&nbsp;
         <br/><br/>
         <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
