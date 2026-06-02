@@ -2,7 +2,7 @@
 
 <!-- 2. FULL-WIDTH WAVING BANNER BELOW THE VIDEO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=bbf2f6&height=140&section=header&text=ANANDU%20K%20K&fontSize=32&fontAlignY=40&titleColor=1a1a2e" width="100%" alt="Name Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1c4e9&height=180&section=header&text=ANANDU%20K%20K&fontSize=42&fontAlignY=38&titleColor=1a1a2e&animation=twinkling" width="100%" alt="Name Banner" />
 </p>
 <!-- 1. CENTERED VIDEO (GIF) AT THE VERY TOP -->
 <p align="center">
@@ -33,8 +33,8 @@ I am an MCA graduate and active Freelance Developer passionate about web develop
   <li>🎓 <b>Education:</b> MCA Student at AWH, Kuttikattoor</li>
   <li>💼 <b>Focus:</b> Full-stack development, mobile apps, and systems</li>
   <li>🚀 <b>Goal:</b> Building performant software, one challenge at a time</li>
-  <li>📁 <b>Classic Showcase:</b> <a href="https://portfolios-mocha-six.vercel.app/" target="_blank"><b>Visit My Live Portfolio Website</b></a></li>
-  <li>🌐 <b>Interactive:</b> <a href="https://anandukk.vercel.app/" target="_blank"><b>Visit My Latest Portfolio Website</b></a></li>
+  <li>📁 <b>Classic Showcase:</b> <a href="https://portfolios-mocha-six.vercel.app/" target="_blank"><b>Visit My Portfolio 1.0</b></a></li>
+  <li>🌐 <b>Interactive:</b> <a href="https://anandukk.vercel.app/" target="_blank"><b>Visit My Latest Portfolio 2.0</b></a></li>
 </ul>
 
 <br />
