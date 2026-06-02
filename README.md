@@ -26,7 +26,7 @@
 <!-- PROFILE OVERVIEW SECTION -->
 <h3>👋 About Me</h3>
 <p>
-  I am an MCA student passionate about learning software architecture, algorithms, and exploring creative development. Outside of traditional coding, I am highly interested in AI image generation and generating art through code.
+I am an MCA graduate and active Freelance Developer passionate about web development with custom animations and interactive designs. My main focus is on creativity—combining clean code with visual art, exploring AI image generation, and building highly engaging user experiences. <b>I am currently looking for opportunities as a Web Designer.</b>
 </p>
 
 <ul>
