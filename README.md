@@ -6,14 +6,14 @@
 </p>
 <!-- 1. CENTERED VIDEO (GIF) AT THE VERY TOP -->
 <p align="center">
-  <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
+  <a href="https://anandukk.vercel.app/" target="_blank">
     <!-- Scaled slightly larger for a centered hero layout with your custom border -->
     <img src="./intro.gif" width="450px" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
   </a>
 </p>
 <!-- 3. CENTERED ANIMATED TYPING EFFECT -->
 <p align="center">
-  <a href="https://portfolios-mocha-six.vercel.app/">
+  <a href="https://anandukk.vercel.app/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=450&lines=MCA+Student+%7C+Aspiring+Developer;Exploring+algorithms+%26+code;AI+Image+Generation+Enthusiast" alt="Typing Effect" />
   </a>
 </p>
@@ -34,6 +34,7 @@
   <li>💼 <b>Focus:</b> Full-stack development, mobile apps, and systems</li>
   <li>🚀 <b>Goal:</b> Building performant software, one challenge at a time</li>
   <li>🌐 <b>Interactive:</b> <a href="https://portfolios-mocha-six.vercel.app/" target="_blank"><b>Visit My Live Portfolio Website</b></a></li>
+  <li>🌐 <b>Interactive:</b> <a href="https://anandukk.vercel.app/" target="_blank"><b>Visit My Latest Portfolio Website</b></a></li>
 </ul>
 
 <br />
