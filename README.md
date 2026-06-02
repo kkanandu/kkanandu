@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
     <!-- Scaled slightly larger for a centered hero layout with your custom border -->
-    <img src="./intro.gif" width="450" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
+    <img src="./intro.gif" width="100%" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
   </a>
 </p>
 <!-- 3. CENTERED ANIMATED TYPING EFFECT -->
