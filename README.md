@@ -1,157 +1,247 @@
+<!-- ==================== ANIMATED HEADER ==================== -->
 
-
-<!-- 2. FULL-WIDTH WAVING BANNER BELOW THE VIDEO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1c4e9&height=180&section=header&text=ANANDU%20K%20K&fontSize=42&fontAlignY=38&titleColor=1a1a2e&animation=twinkling" width="100%" alt="Name Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=190&text=ANANDU%20K%20K&fontSize=54&fontColor=39FF14&animation=twinkling&fontAlignY=43&desc=DEVELOPER%20%2F%20DESIGNER%20%2F%20CREATIVE%20MIND&descSize=14&descAlignY=68&descColor=8B949E"
+    width="100%"
+    alt="Anandu K K — Developer, Designer, Creative Mind"
+  />
 </p>
-<!-- 1. CENTERED VIDEO (GIF) AT THE VERY TOP -->
-<p align="center" style="background-color:blue";>
-  <a href="https://anandukk.vercel.app/" target="_blank">
-    <!-- Scaled slightly larger for a centered hero layout with your custom border -->
-    <img src="./intro.gif" width="450px" style="border-radius: 12px; border: 3px solid #7aa2f7; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" alt="Anandu K K Intro" />
-  </a>
+
+<!-- ==================== BOOT SEQUENCE ==================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=760&height=65&lines=%24+initializing+creative+workspace...;%24+loading+code%2C+design+and+ideas...;%24+hello+world.+I+am+Anandu.;%24+let%27s+build+something+worth+exploring."
+    width="100%"
+    alt="Animated terminal introduction"
+  />
 </p>
-<!-- 3. CENTERED ANIMATED TYPING EFFECT -->
+
 <p align="center">
   <a href="https://anandukk.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=450&lines=MCA+Student+%7C+Aspiring+Developer;Exploring+algorithms+%26+code;AI+Image+Generation+Enthusiast" alt="Typing Effect" />
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Explore Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kkanandu?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="View Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_psy_coder_/">
+    <img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Connect on Instagram" />
   </a>
 </p>
 
-<!-- LINE DIVIDER -->
+<br />
+
+<!-- ==================== INTRO GIF ==================== -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+  <a href="https://anandukk.vercel.app/">
+    <img src="./intro.gif" width="640" alt="Anandu's animated introduction — open portfolio" />
+  </a>
 </p>
 
-<!-- PROFILE OVERVIEW SECTION -->
-<h3>👋 About Me</h3>
-<p>
-I am an MCA graduate and active Freelance Developer passionate about web development with custom animations and interactive designs. My main focus is on creativity—combining clean code with visual art, exploring AI image generation, and building highly engaging user experiences. <b>I am currently looking for opportunities as a Web Designer.</b>
+<p align="center">
+  <samp>CREATIVITY IS THE INPUT. EXPERIENCE IS THE OUTPUT.</samp>
 </p>
-
-<ul>
-  <li>🎓 <b>Education:</b> MCA Student at AWH, Kuttikattoor</li>
-  <li>💼 <b>Focus:</b> Full-stack development, mobile apps, and systems</li>
-  <li>🚀 <b>Goal:</b> Building performant software, one challenge at a time</li>
-  <li>📁 <b>Classic Showcase:</b> <a href="https://portfolios-mocha-six.vercel.app/" target="_blank"><b>Visit My Portfolio 1.0</b></a></li>
-  <li>🌐 <b>Interactive:</b> <a href="https://anandukk.vercel.app/" target="_blank"><b>Visit My Latest Portfolio 2.0</b></a></li>
-</ul>
 
 <br />
 
-<!-- LINE DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
-</p>
-<h2 align="center">📊 GitHub Overview</h2>
+<!-- ==================== PROFILE ==================== -->
+
+## `> whoami`
+
+```javascript
+const anandu = {
+  name: "Anandu K K",
+  education: "MCA Graduate",
+  role: "Freelance Developer",
+  interests: [
+    "Web development",
+    "Interactive interfaces",
+    "Custom animations",
+    "AI image generation"
+  ],
+  approach: "Clean code meets visual creativity",
+  openTo: "Web Designer opportunities",
+  portfolio: "https://anandukk.vercel.app"
+};
+```
+
+I build websites that combine **clear design, thoughtful motion, and practical functionality**. My work brings together web development and visual creativity, with a focus on engaging user experiences.
 
 <p>
-📅 Joined GitHub 5 years ago • 👥 22 Members • ✅ Verified<br>
-
-📦 34 Repositories • 📄 No License Preference • 🏷️ 0 Releases<br>
-📦 1 Packages • 💾 899 MB Used<br><br>
-
-❤️ 0 Sponsors • ⭐ 5 Stargazers • 🍴 1 Forkers • 👀 3 Watchers
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
-</p>
-<!-- GITHUB MILESTONES & STATS SECTION -->
-<h3>⚡ GitHub Milestones & Stats</h3>
-
-<div align="center" style="background:#15192d;border-radius:12px;padding:25px;">
-
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <h1 style="color:#5b8cff;margin:0;">700</h1>
-        <p style="color:#8fb3ff;margin:5px 0;">Total Contributions</p>
-        <p style="color:#4deeea;margin:0;">jun 1, 2026 - Present</p>
-      </td>
-         <td width="40"></td>
-          <td align="center" width="220">
-        <h1 style="color:#d291ff;margin:0;">15</h1>
-        <p style="color:#d291ff;margin:5px 0;">Current Streak</p>
-        <p style="color:#4deeea;margin:0;">Jun 2, 2026</p>
-      </td>
-<td width="40"></td>
-     
- <td align="center" width="220">
-        <h1 style="color:#5b8cff;margin:0;">45</h1>
-        <p style="color:#8fb3ff;margin:5px 0;">Longest Streak</p>
-        <p style="color:#4deeea;margin:0;">Feb 14 - Mar 30, 2026</p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-<!-- LINE DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+  <img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-0D1117?style=flat-square&labelColor=163021&color=0D1117" alt="Focus: Web Development" />
+  <img src="https://img.shields.io/badge/EXPLORING-CREATIVE_AI-0D1117?style=flat-square&labelColor=163021&color=0D1117" alt="Exploring: Creative AI" />
+  <img src="https://img.shields.io/badge/OPEN_TO-WEB_DESIGN_ROLES-0D1117?style=flat-square&labelColor=163021&color=0D1117" alt="Open to Web Design Roles" />
 </p>
 
-<!-- CATEGORIZED LANGUAGES & TOOLS (GRID DESIGN) -->
-<h3>🛠️ Languages and Tools</h3>
 <br />
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+
+<!-- ==================== TOOLKIT ==================== -->
+
+## `> ls ./toolkit`
+
+<table>
   <tr>
-    <!-- Languages -->
-    <td width="33%" valign="top" style="border: 1px solid #2d3139; border-radius: 8px; padding: 15px;">
-      <h4 align="center">💾 Languages</h4>
-      <p align="center">
-        <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-        <br/><br/>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>LANGUAGES</h3>
+      <p><samp>The foundation</samp></p>
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38" alt="Java" />
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" />
+      <br /><br />
+      <samp>JavaScript · Python · Java<br />C · C++</samp>
     </td>
-    <!-- Web & Mobile -->
-    <td width="33%" valign="top" style="border: 1px solid #2d3139; border-radius: 8px; padding: 15px;">
-      <h4 align="center">🌐 Frontend & App</h4>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-        <br/><br/>
-        <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-      </p>
+    <td width="34%" align="center" valign="top">
+      <h3>INTERFACES</h3>
+      <p><samp>Ideas you can interact with</samp></p>
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" />
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="38" height="38" alt="Android" />
+      <br /><br />
+      <samp>React · HTML · CSS<br />Bootstrap · Android</samp>
     </td>
-    <!-- Cloud, Databases & Hardware -->
-    <td width="33%" valign="top" style="border: 1px solid #2d3139; border-radius: 8px; padding: 15px;">
-      <h4 align="center">🔧 Infrastructure & Tools</h4>
-      <p align="center">
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
- <a href="https://razorpay.com/" target="_blank">
-        <img src="https://razorpay.com/favicon.png" alt="Razorpay" width="40" height="40"/>
-      </a>&nbsp;&nbsp;
-        <br/><br/>
-        <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>TOOLS & DATA</h3>
+      <p><samp>Behind the experience</samp></p>
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" />
+      &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" height="38" alt="Postman" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Razorpay-072654?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+      <br /><br />
+      <samp>MySQL · Postman<br />Payment integrations</samp>
     </td>
   </tr>
 </table>
 
+<br />
 
-<!-- LINE DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+<!-- ==================== PORTFOLIOS ==================== -->
+
+## `> cd ./selected-work`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Portfolio / 2.0</h3>
+      <p>
+        Explore my latest portfolio, with interactive design,
+        animation, and a more personal creative direction.
+      </p>
+      <br />
+      <a href="https://anandukk.vercel.app/">
+        <img src="https://img.shields.io/badge/LAUNCH_LATEST_PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Launch Latest Portfolio" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio / 1.0</h3>
+      <p>
+        Visit my earlier showcase and explore the previous
+        chapter of my development and design journey.
+      </p>
+      <br />
+      <a href="https://portfolios-mocha-six.vercel.app/">
+        <img src="https://img.shields.io/badge/OPEN_CLASSIC_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Open Classic Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== GITHUB ==================== -->
+
+## `> git log --oneline`
+
+<p>
+  My repositories are a record of what I build, explore, and learn.
+  Browse the code or check my contribution activity below.
 </p>
 
-<!-- SOCIAL FOOTER -->
 <p align="center">
-  <b>Let's connect and share knowledge:</b>
-  <br /><br />
-  <a href="https://github.com/kkanandu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_psy_coder_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://portfolios-mocha-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/kkanandu?tab=repositories">
+    <img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="Browse GitHub Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kkanandu?tab=overview">
+    <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-163021?style=for-the-badge&logo=github&logoColor=39FF14" alt="View GitHub Contribution Activity" />
   </a>
 </p>
 
+<br />
+
+<!-- ==================== PERSONAL NOTES ==================== -->
+
+<details>
+  <summary><b><code>> cat creative-notes.txt</code></b></summary>
+
+  <br />
+
+  <ul>
+    <li>I enjoy giving websites personality through custom animations.</li>
+    <li>I explore AI image generation as part of my creative process.</li>
+    <li>I like connecting technical problem-solving with visual design.</li>
+    <li>I am interested in opportunities where I can build and design for the web.</li>
+  </ul>
+
+</details>
+
+<br />
+
+<!-- ==================== CONTACT ==================== -->
+
+## `> connect --with anandu`
+
+<p align="center">
+  <samp>Have an idea, a project, or an opportunity? Let's talk.</samp>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://www.instagram.com/_psy_coder_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://anandukk.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kkanandu">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1800&color=39FF14&background=0D1117&center=true&vCenter=true&width=760&height=65&lines=%24+turning+ideas+into+interfaces_;%24+session+complete.+creativity+continues_"
+    width="100%"
+    alt="Turning ideas into interfaces. Creativity continues."
+  />
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer"
+  width="100%"
+  alt=""
+/>
