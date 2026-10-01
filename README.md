@@ -1,247 +1,250 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ================= COVER ================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=190&text=ANANDU%20K%20K&fontSize=54&fontColor=39FF14&animation=twinkling&fontAlignY=43&desc=DEVELOPER%20%2F%20DESIGNER%20%2F%20CREATIVE%20MIND&descSize=14&descAlignY=68&descColor=8B949E"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064E3B,100:22C55E&height=260&section=header&text=ANANDU%20K%20K&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CREATIVE%20DEVELOPER%20%2F%20WEB%20DESIGNER&descSize=16&descAlignY=57&descColor=A7F3D0"
     width="100%"
-    alt="Anandu K K — Developer, Designer, Creative Mind"
+    alt="Anandu K K — Creative Developer and Web Designer"
   />
 </p>
 
-<!-- ==================== BOOT SEQUENCE ==================== -->
+<!-- ================= CODING TERMINAL ================= -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=760&height=65&lines=%24+initializing+creative+workspace...;%24+loading+code%2C+design+and+ideas...;%24+hello+world.+I+am+Anandu.;%24+let%27s+build+something+worth+exploring."
-    width="100%"
-    alt="Animated terminal introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="https://anandukk.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Explore Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kkanandu?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="View Repositories" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/_psy_coder_/">
-    <img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Connect on Instagram" />
-  </a>
-</p>
-
-<br />
-
-<!-- ==================== INTRO GIF ==================== -->
-
-<p align="center">
-  <a href="https://anandukk.vercel.app/">
-    <img src="./intro.gif" width="640" alt="Anandu's animated introduction — open portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <samp>CREATIVITY IS THE INPUT. EXPERIENCE IS THE OUTPUT.</samp>
-</p>
-
-<br />
-
-<!-- ==================== PROFILE ==================== -->
-
-## `> whoami`
-
-```javascript
-const anandu = {
-  name: "Anandu K K",
-  education: "MCA Graduate",
-  role: "Freelance Developer",
-  interests: [
-    "Web development",
-    "Interactive interfaces",
-    "Custom animations",
-    "AI image generation"
-  ],
-  approach: "Clean code meets visual creativity",
-  openTo: "Web Designer opportunities",
-  portfolio: "https://anandukk.vercel.app"
-};
-```
-
-I build websites that combine **clear design, thoughtful motion, and practical functionality**. My work brings together web development and visual creativity, with a focus on engaging user experiences.
-
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-0D1117?style=flat-square&labelColor=163021&color=0D1117" alt="Focus: Web Development" />
-  <img src="https://img.shields.io/badge/EXPLORING-CREATIVE_AI-0D1117?style=flat-square&labelColor=163021&color=0D1117" alt="Exploring: Creative AI" />
-  <img src="https://img.shields.io/badge/OPEN_TO-WEB_DESIGN_ROLES-0D1117?style=flat-square&labelColor=163021&color=0D1117" alt="Open to Web Design Roles" />
-</p>
-
-<br />
-
-<!-- ==================== TOOLKIT ==================== -->
-
-## `> ls ./toolkit`
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>LANGUAGES</h3>
-      <p><samp>The foundation</samp></p>
-      <br />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38" alt="Java" />
-      <br /><br />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" />
-      <br /><br />
-      <samp>JavaScript · Python · Java<br />C · C++</samp>
-    </td>
-    <td width="34%" align="center" valign="top">
-      <h3>INTERFACES</h3>
-      <p><samp>Ideas you can interact with</samp></p>
-      <br />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" />
-      <br /><br />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="38" height="38" alt="Android" />
-      <br /><br />
-      <samp>React · HTML · CSS<br />Bootstrap · Android</samp>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>TOOLS & DATA</h3>
-      <p><samp>Behind the experience</samp></p>
-      <br />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" />
-      &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" height="38" alt="Postman" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/Razorpay-072654?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
-      <br /><br />
-      <samp>MySQL · Postman<br />Payment integrations</samp>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- ==================== PORTFOLIOS ==================== -->
-
-## `> cd ./selected-work`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Portfolio / 2.0</h3>
-      <p>
-        Explore my latest portfolio, with interactive design,
-        animation, and a more personal creative direction.
-      </p>
-      <br />
-      <a href="https://anandukk.vercel.app/">
-        <img src="https://img.shields.io/badge/LAUNCH_LATEST_PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Launch Latest Portfolio" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Portfolio / 1.0</h3>
-      <p>
-        Visit my earlier showcase and explore the previous
-        chapter of my development and design journey.
-      </p>
-      <br />
-      <a href="https://portfolios-mocha-six.vercel.app/">
-        <img src="https://img.shields.io/badge/OPEN_CLASSIC_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Open Classic Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- ==================== GITHUB ==================== -->
-
-## `> git log --oneline`
-
-<p>
-  My repositories are a record of what I build, explore, and learn.
-  Browse the code or check my contribution activity below.
-</p>
-
-<p align="center">
-  <a href="https://github.com/kkanandu?tab=repositories">
-    <img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="Browse GitHub Repositories" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kkanandu?tab=overview">
-    <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-163021?style=for-the-badge&logo=github&logoColor=39FF14" alt="View GitHub Contribution Activity" />
-  </a>
-</p>
-
-<br />
-
-<!-- ==================== PERSONAL NOTES ==================== -->
-
-<details>
-  <summary><b><code>> cat creative-notes.txt</code></b></summary>
+<details open>
+  <summary><b>👨‍💻 anandu@workspace:~ — Open / Close Terminal</b></summary>
 
   <br />
 
-  <ul>
-    <li>I enjoy giving websites personality through custom animations.</li>
-    <li>I explore AI image generation as part of my creative process.</li>
-    <li>I like connecting technical problem-solving with visual design.</li>
-    <li>I am interested in opportunities where I can build and design for the web.</li>
-  </ul>
+  <p align="center">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=42&text=TERMINAL%20%20%2F%20%20developer.js&fontSize=14&fontColor=8B949E&fontAlign=50"
+      width="100%"
+      alt="Terminal — developer.js"
+    />
+    <br />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=4ADE80&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=150&lines=%3E+const+developer+%3D+%22Anandu+K+K%22;%3E+developer.build%28%22Creative+websites%22%29;%3E+design.add%28%22Motion+%2B+Interaction%22%29;%3E+ideas.transform%28%22Into+experiences%22%29;%3E+console.log%28%22Let%27s+build+together.%22%29"
+      width="100%"
+      alt="Animated code typing and deleting: Anandu builds creative websites with motion and interaction."
+    />
+    <br />
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=32&text=JavaScript%20%20%7C%20%20UTF-8%20%20%7C%20%20Anandu%27s%20workspace&fontSize=11&fontColor=4ADE80"
+      width="100%"
+      alt="JavaScript — UTF-8 — Anandu's workspace"
+    />
+  </p>
 
 </details>
 
 <br />
 
-<!-- ==================== CONTACT ==================== -->
-
-## `> connect --with anandu`
-
 <p align="center">
-  <samp>Have an idea, a project, or an opportunity? Let's talk.</samp>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://www.instagram.com/_psy_coder_/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram" />
-  </a>
-  &nbsp;
   <a href="https://anandukk.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-22C55E?style=for-the-badge&logo=vercel&logoColor=05110A"
+      alt="Visit Portfolio"
+    />
   </a>
   &nbsp;
-  <a href="https://github.com/kkanandu">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+  <a href="https://github.com/kkanandu?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=4ADE80"
+      alt="Explore Repositories"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_psy_coder_/">
+    <img
+      src="https://img.shields.io/badge/LET'S_CONNECT-161B22?style=for-the-badge&logo=instagram&logoColor=4ADE80"
+      alt="Connect on Instagram"
+    />
   </a>
 </p>
 
 <br />
 
+<!-- ================= ABOUT ================= -->
+
+<h2>👋 Behind the Code</h2>
+
+<p>
+  I'm <b>Anandu K K</b>, an <b>MCA graduate and Freelance Developer</b>
+  who enjoys bringing ideas to life through code and design.
+  I create websites with custom animations, interactive interfaces,
+  and a strong visual identity.
+</p>
+
+<p>
+  Beyond development, I explore <b>AI image generation and digital art</b>,
+  bringing that creativity into the experiences I build.
+</p>
+
+<table>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>MCA Graduate — AWH, Kuttikattoor</td>
+  </tr>
+  <tr>
+    <td><b>💻 Focus</b></td>
+    <td>Web development and interactive design</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Creative interests</b></td>
+    <td>Custom animations, digital art, and AI imagery</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Opportunities</b></td>
+    <td>Open to Web Designer roles and freelance projects</td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ================= SKILLS ================= -->
+
+<h2>🧩 My Toolkit</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38" alt="Java" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" />
+      </p>
+      <p><samp>JavaScript · Python · Java · C · C++</samp></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" />
+      </p>
+      <p><samp>React · HTML · CSS · Bootstrap</samp></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tools & Integrations</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" height="38" alt="Postman" />
+      </p>
+      <p><samp>MySQL · Postman · Razorpay</samp></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mobile & Creative</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="38" height="38" alt="Android" />
+      </p>
+      <p><samp>Android · AI imagery · Interface animation</samp></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ================= PORTFOLIO ================= -->
+
+<h2>🌐 Explore My Work</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Portfolio 2.0</h3>
+      <p>
+        My latest creative space, bringing together
+        web development, visual design, and interaction.
+      </p>
+      <a href="https://anandukk.vercel.app/">
+        <img
+          src="https://img.shields.io/badge/EXPLORE_LATEST-22C55E?style=for-the-badge&logo=vercel&logoColor=05110A"
+          alt="Explore Latest Portfolio"
+        />
+      </a>
+      <br /><br />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio 1.0</h3>
+      <p>
+        An earlier chapter of my work.
+        See where my design and development journey started.
+      </p>
+      <a href="https://portfolios-mocha-six.vercel.app/">
+        <img
+          src="https://img.shields.io/badge/EXPLORE_CLASSIC-161B22?style=for-the-badge&logo=vercel&logoColor=4ADE80"
+          alt="Explore Classic Portfolio"
+        />
+      </a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ================= COLLAPSIBLE DETAILS ================= -->
+
+<details>
+  <summary><b>⚡ What I enjoy building</b></summary>
+  <br />
+  <ul>
+    <li>Websites with a distinctive visual identity.</li>
+    <li>Interfaces with thoughtful animation and interaction.</li>
+    <li>Full-stack projects that solve practical problems.</li>
+    <li>Creative experiments combining code and digital art.</li>
+  </ul>
+</details>
+
+<br />
+
+<details>
+  <summary><b>📂 Explore my GitHub</b></summary>
+  <br />
+  <p>
+    Browse my repositories to see my projects, experiments,
+    and what I'm learning along the way.
+  </p>
+  <a href="https://github.com/kkanandu?tab=repositories">
+    <b>View all repositories →</b>
+  </a>
+  <br /><br />
+</details>
+
+<br />
+
+<!-- ================= FOOTER ================= -->
+
+<h2 align="center">Have an idea? Let's build it.</h2>
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1800&color=39FF14&background=0D1117&center=true&vCenter=true&width=760&height=65&lines=%24+turning+ideas+into+interfaces_;%24+session+complete.+creativity+continues_"
-    width="100%"
-    alt="Turning ideas into interfaces. Creativity continues."
-  />
+  <a href="https://anandukk.vercel.app/">Portfolio</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.instagram.com/_psy_coder_/">Instagram</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/kkanandu">GitHub</a>
+</p>
+
+<p align="center">
+  <samp>Made with curiosity, code, and a little creative obsession.</samp>
 </p>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064E3B,100:22C55E&height=110&section=footer"
   width="100%"
   alt=""
 />
